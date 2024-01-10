@@ -4,14 +4,14 @@ The backend will look for certain keywords in the received user message and resp
 
 The code follows Airbnb's coding standards whereever necessary.
 
-The backend is built with NestJSs and the frontend is built with ReactJS
+The backend is built with NestJS and the frontend is built with ReactJS
 
 ## How to run
 
 ### Step 1: Get the code
 Download this repository, either by downloading .zip file from the code dropdown button or by git cli:
 ```
-git clone <https://github.com/tanvisharma22/CHAT.git>
+git clone https://github.com/tanvisharma22/CHAT.git
 ```
 If .zip file is downloaded, extract the contents of the same.
 
